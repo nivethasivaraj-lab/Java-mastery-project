@@ -1,2 +1,2 @@
-# Java-mastery-project
-My java mastery class exercise
+# Python project
+My python  exercise
